@@ -1,0 +1,25 @@
+{
+  "name": "spc",
+  "version": "0.0.1",
+  "description": "SMPL Package Control",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "preferGlobal": true,
+  "bin": {
+    "spc": "bin/index.js"
+  },
+  "keywords": [
+    "package",
+    "manager"
+  ],
+  "author": "ja.x",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^0.30.0",
+    "inquirer": "^1.0.2",
+    "json-format": "^0.1.2",
+    "vorpal": "^1.10.10"
+  }
+}

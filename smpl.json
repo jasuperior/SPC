@@ -1,0 +1,7 @@
+{
+    "name":"example",
+    "main": "index.js",
+    "author": "ja_x",
+    "description": "readme.md",
+    "keywords":["hello","example","package","smpl"]
+}
